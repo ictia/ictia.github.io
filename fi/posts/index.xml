@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ictia Coaching</title>
+    <link>https://ictia.github.io/fi/posts/</link>
+    <description>Recent content in Posts on Ictia Coaching</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 06 Apr 2022 10:40:21 +0300</lastBuildDate><atom:link href="https://ictia.github.io/fi/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Finland to the Netherlands by bicycle</title>
+      <link>https://ictia.github.io/fi/posts/finland_netherlands/</link>
+      <pubDate>Wed, 06 Apr 2022 10:40:21 +0300</pubDate>
+      
+      <guid>https://ictia.github.io/fi/posts/finland_netherlands/</guid>
+      <description>One could say that I grew up cycling. Some of my earlier memories are of me learning to cycle in Purmerend, 20 kilometers or so to the north of Amsterdam. I remember later on trying to break my speed records while checking my speedometer, which at the time (the early 1970s) was a large handlebar mounted contraption. During my teens I road-raced and I have basically enjoyed cycling my whole life.</description>
+    </item>
+    
+  </channel>
+</rss>
