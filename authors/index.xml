@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Ictia Coaching</title>
+    <link>https://ictia.github.io/authors/</link>
+    <description>Recent content in Authors on Ictia Coaching</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 06 Apr 2022 10:40:21 +0300</lastBuildDate><atom:link href="https://ictia.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ictia</title>
+      <link>https://ictia.github.io/authors/ictia/</link>
+      <pubDate>Wed, 06 Apr 2022 10:40:21 +0300</pubDate>
+      
+      <guid>https://ictia.github.io/authors/ictia/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

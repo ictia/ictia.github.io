@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ictia Coaching</title>
+    <link>https://ictia.github.io/fi/</link>
+    <description>Recent content on Ictia Coaching</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://ictia.github.io/fi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tietoa</title>
+      <link>https://ictia.github.io/fi/about/</link>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ictia.github.io/fi/about/</guid>
+      <description>Ictia Coaching on pyöräilyvalmennusyritys, joka auttaa ihmisiä kehittymään parhaiksi mahdollisiksi. Pääpaino on täydellisissä aloittelijoissa ja lähtötason pyöräilijöissä. Urheilijat saavat tukea kahdenkeskisen valmennuksen, koulutusbloggauksen ja strukturoitujen harjoitussuunnitelmien kautta. Missio on auttaa ainutlaatuisia ihmisiä saavuttamaan ainutlaatuiset ja henkilökohtaiset tavoitteensa.
+ Auttaa ainutlaatuisia ihmisiä saavuttamaan ainutlaatuisia ja henkilökohtaisia tavoitteita
+ Minun tarinani    Olen ollut pyöräilijä koko ikäni. Nuoruudessani olen kilpaillut sekä maantie- että cyclocross-tapahtumissa, juossut maratoneja ja suorittanut täyden triathlonin. Sitten tapahtui elämä, ja minusta tuli lihava, laiska ja huonokuntoinen.</description>
+    </item>
+    
+    <item>
+      <title>Ota yhteyttä:</title>
+      <link>https://ictia.github.io/fi/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ictia.github.io/fi/contact/</guid>
+      <description> yhteydenotto lomake s-posti: ictiacoaching@gmail.com twitter: https://twitter.com/ictiacoaching/ instagram: https://www.instagram.com/ictiacoaching/  </description>
+    </item>
+    
+    <item>
+      <title>Palvelut</title>
+      <link>https://ictia.github.io/fi/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ictia.github.io/fi/services/</guid>
+      <description>Tason 1 valmennussuunnitelma     Urheilijan profiili  Täydellinen aloittelija   Kesto  1 kuukausi   Mitä saat  Konsultointi, jossa arvioimme kuntosi tasoasi, tavoitteitasi ja mahdollisia aikatauluongelmiasi Perus harjoitussuunnitelma (25 - 50 kilometriä viikossa) Kahden viikon jälkeen, arvioinnin ja tarvittaessa harjoitussuunnitelman päivityksen   Hinta  €50    Tason 2 valmennussuunnitelma     Urheilijan profiili  Et ole enää täydellinen aloittelija ja haluat viedä peruskestävyysrakentamisen seuraavalle tasolle   Kesto  1 kuukausi   Mitä saat  Konsultointi, jossa arvioimme kuntotasoasi ja tavoitteitasi Jäsennelty harjoitussuunnitelma, joka on suunniteltu vastaamaan kuntotasoasi ja räätälöity pyöräilytavoitteidesi mukaan (50 - 100 kilometriä viikossa) MHR:hen tai RPE:hen perustuvat harjoitusalueet Viikoittainen arviointi ja tarvittaessa harjoitussuunnitelman päivitys Laitetiedoston analysointi (jos saatavilla)   Hinta  €100    Sijainti perustuu (Tampereen alue)     Perus pyörän sovitus - €25 Pyörän peruskorjaus - jolloin jälkeen pyörä on taas ajettavissa - €35 + materiaali   Valmennus on yksityistä ja kahdenkeskinen.</description>
+    </item>
+    
+  </channel>
+</rss>
