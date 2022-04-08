@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ictia.github.io/authors/</loc>
-    <lastmod>2022-04-06T10:40:21+03:00</lastmod>
+    <lastmod>2022-04-08T10:33:34+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
@@ -13,6 +13,58 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ictia.github.io/authors/"
+                />
+  </url><url>
+    <loc>https://ictia.github.io/posts/ictia/</loc>
+    <lastmod>2022-04-08T10:33:34+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="https://ictia.github.io/fi/posts/ictia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ictia.github.io/posts/ictia/"
+                />
+  </url><url>
+    <loc>https://ictia.github.io/authors/ictia/</loc>
+    <lastmod>2022-04-08T10:33:34+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="https://ictia.github.io/fi/authors/ictia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ictia.github.io/authors/ictia/"
+                />
+  </url><url>
+    <loc>https://ictia.github.io/</loc>
+    <lastmod>2022-04-08T10:33:34+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="https://ictia.github.io/fi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ictia.github.io/"
+                />
+  </url><url>
+    <loc>https://ictia.github.io/posts/</loc>
+    <lastmod>2022-04-08T10:33:34+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="https://ictia.github.io/fi/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ictia.github.io/posts/"
                 />
   </url><url>
     <loc>https://ictia.github.io/tags/cycling/</loc>
@@ -39,45 +91,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ictia.github.io/posts/finland_netherlands/"
-                />
-  </url><url>
-    <loc>https://ictia.github.io/authors/ictia/</loc>
-    <lastmod>2022-04-06T10:40:21+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fi"
-                href="https://ictia.github.io/fi/authors/ictia/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ictia.github.io/authors/ictia/"
-                />
-  </url><url>
-    <loc>https://ictia.github.io/</loc>
-    <lastmod>2022-04-06T10:40:21+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fi"
-                href="https://ictia.github.io/fi/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ictia.github.io/"
-                />
-  </url><url>
-    <loc>https://ictia.github.io/posts/</loc>
-    <lastmod>2022-04-06T10:40:21+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fi"
-                href="https://ictia.github.io/fi/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ictia.github.io/posts/"
                 />
   </url><url>
     <loc>https://ictia.github.io/tags/</loc>
