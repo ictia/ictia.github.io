@@ -41,6 +41,19 @@
                 href="https://ictia.github.io/posts/test2/"
                 />
   </url><url>
+    <loc>https://ictia.github.io/posts/test/</loc>
+    <lastmod>2022-04-20T07:29:50+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="https://ictia.github.io/fi/posts/test/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ictia.github.io/posts/test/"
+                />
+  </url><url>
     <loc>https://ictia.github.io/posts/rpe/</loc>
     <lastmod>2022-04-12T12:10:02+03:00</lastmod>
     <xhtml:link
