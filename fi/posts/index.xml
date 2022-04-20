@@ -6,34 +6,7 @@
     <description>Recent content in Posts on Ictia Coaching</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Apr 2022 08:34:41 +0300</lastBuildDate><atom:link href="https://ictia.github.io/fi/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A third test post</title>
-      <link>https://ictia.github.io/fi/posts/testing/</link>
-      <pubDate>Wed, 20 Apr 2022 08:34:41 +0300</pubDate>
-      
-      <guid>https://ictia.github.io/fi/posts/testing/</guid>
-      <description>I think that I&amp;rsquo;ve got it all worked out now. SCP from pc to srv before I know that I&amp;rsquo;ll start to use this system, simply because when running hugo -D I need all previous posts available, otherwise it&amp;rsquo;ll not build them, and thus remove them from the site. Then create a new post, deploy, and enjoy all online. When back it&amp;rsquo;s time to SCP all posts to pc otherwise the new ones will be gone.</description>
-    </item>
-    
-    <item>
-      <title>Test 2</title>
-      <link>https://ictia.github.io/fi/posts/test2/</link>
-      <pubDate>Wed, 20 Apr 2022 07:36:44 +0300</pubDate>
-      
-      <guid>https://ictia.github.io/fi/posts/test2/</guid>
-      <description>A second test post, created on the server via mosh and ssh</description>
-    </item>
-    
-    <item>
-      <title>Test post</title>
-      <link>https://ictia.github.io/fi/posts/test/</link>
-      <pubDate>Wed, 20 Apr 2022 07:29:50 +0300</pubDate>
-      
-      <guid>https://ictia.github.io/fi/posts/test/</guid>
-      <description>A test post from dharmabum</description>
-    </item>
-    
+    <lastBuildDate>Tue, 12 Apr 2022 12:10:02 +0300</lastBuildDate><atom:link href="https://ictia.github.io/fi/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rating of Perceived Exertion - RPE</title>
       <link>https://ictia.github.io/fi/posts/rpe/</link>
