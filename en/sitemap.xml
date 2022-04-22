@@ -2,8 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ictia.github.io/posts/heart-rates/</loc>
+    <lastmod>2022-04-22T10:07:23+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="https://ictia.github.io/fi/posts/heart-rates/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ictia.github.io/posts/heart-rates/"
+                />
+  </url><url>
     <loc>https://ictia.github.io/</loc>
-    <lastmod>2022-04-12T12:10:02+03:00</lastmod>
+    <lastmod>2022-04-22T10:07:23+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
@@ -16,7 +29,7 @@
                 />
   </url><url>
     <loc>https://ictia.github.io/posts/</loc>
-    <lastmod>2022-04-12T12:10:02+03:00</lastmod>
+    <lastmod>2022-04-22T10:07:23+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
