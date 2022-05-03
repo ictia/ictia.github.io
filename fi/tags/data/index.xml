@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data on Ictia Coaching</title>
+    <link>https://ictia.github.io/fi/tags/data/</link>
+    <description>Recent content in data on Ictia Coaching</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 Apr 2022 11:17:10 +0300</lastBuildDate><atom:link href="https://ictia.github.io/fi/tags/data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Training zones</title>
+      <link>https://ictia.github.io/fi/posts/training-zones/</link>
+      <pubDate>Wed, 27 Apr 2022 11:17:10 +0300</pubDate>
+      
+      <guid>https://ictia.github.io/fi/posts/training-zones/</guid>
+      <description>What are training zones?    Training zones are basically exercise intensity levels, and the period within each has a direct effect on how productive your training is. Different types of exercises determine for how long you should ideally train within each zone. Simply put, if you are training for endurance then the lower end training zones are your goal, if sudden, high-speed, explosive break-aways are your thing, then you will need to train more often in the higher end training zones.</description>
+    </item>
+    
+    <item>
+      <title>Heart rates</title>
+      <link>https://ictia.github.io/fi/posts/heart-rates/</link>
+      <pubDate>Fri, 22 Apr 2022 10:07:23 +0300</pubDate>
+      
+      <guid>https://ictia.github.io/fi/posts/heart-rates/</guid>
+      <description>Knowing your heart rate data points is the best way to establish your training zones. However, they are neither easy to define nor to measure.
+Definitions    Heart rate: your heart rate, or pulse, is the number of times your heart beats per minute at any given moment. Heart rates vary from person to person. It’s lower when you’re at rest and higher when you exercise.
+MHR = Maximum Heart Rate: literally the maximum number of beats per minute your heart can reach during an all-out strenuous exercise.</description>
+    </item>
+    
+    <item>
+      <title>Rating of Perceived Exertion - RPE</title>
+      <link>https://ictia.github.io/fi/posts/rpe/</link>
+      <pubDate>Tue, 12 Apr 2022 12:10:02 +0300</pubDate>
+      
+      <guid>https://ictia.github.io/fi/posts/rpe/</guid>
+      <description>Ideally you would measure exercise intensity by monitoring your heart rate. However, not everyone has a heart rate monitor readily available. You could measure it by stopping and taking your pulse at regular intervals&amp;hellip;But, there is an alternative that works remarkably well: the Rating of Perceived Exertion, or RPE, also known as the Borg scale.
+A Rating of Perceived Exertion is perhaps the most basic way to express the intensity you are experiencing during an exercise, and yet for all its simplicity, it has great value.</description>
+    </item>
+    
+  </channel>
+</rss>

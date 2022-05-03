@@ -2,6 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ictia.github.io/fi/tags/data/</loc>
+    <lastmod>2022-04-27T11:17:10+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ictia.github.io/tags/data/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="https://ictia.github.io/fi/tags/data/"
+                />
+  </url><url>
+    <loc>https://ictia.github.io/fi/tags/fitness/</loc>
+    <lastmod>2022-04-27T11:17:10+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ictia.github.io/tags/fitness/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="https://ictia.github.io/fi/tags/fitness/"
+                />
+  </url><url>
     <loc>https://ictia.github.io/fi/</loc>
     <lastmod>2022-04-27T11:17:10+03:00</lastmod>
     <xhtml:link
@@ -26,6 +52,19 @@
                 rel="alternate"
                 hreflang="fi"
                 href="https://ictia.github.io/fi/posts/"
+                />
+  </url><url>
+    <loc>https://ictia.github.io/fi/tags/</loc>
+    <lastmod>2022-04-27T11:17:10+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ictia.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="https://ictia.github.io/fi/tags/"
                 />
   </url><url>
     <loc>https://ictia.github.io/fi/posts/training-zones/</loc>
@@ -67,6 +106,19 @@
                 href="https://ictia.github.io/fi/posts/rpe/"
                 />
   </url><url>
+    <loc>https://ictia.github.io/fi/tags/habit/</loc>
+    <lastmod>2022-04-11T11:58:20+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ictia.github.io/tags/habit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="https://ictia.github.io/fi/tags/habit/"
+                />
+  </url><url>
     <loc>https://ictia.github.io/fi/posts/habit_routine/</loc>
     <lastmod>2022-04-11T11:58:20+03:00</lastmod>
     <xhtml:link
@@ -91,6 +143,19 @@
                 rel="alternate"
                 hreflang="fi"
                 href="https://ictia.github.io/fi/posts/cardio/"
+                />
+  </url><url>
+    <loc>https://ictia.github.io/fi/tags/cycling/</loc>
+    <lastmod>2022-04-09T10:13:07+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ictia.github.io/tags/cycling/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="https://ictia.github.io/fi/tags/cycling/"
                 />
   </url><url>
     <loc>https://ictia.github.io/fi/posts/bicycle/</loc>
@@ -119,19 +184,6 @@
                 href="https://ictia.github.io/fi/posts/ictia/"
                 />
   </url><url>
-    <loc>https://ictia.github.io/fi/tags/cycling/</loc>
-    <lastmod>2022-04-06T10:40:21+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ictia.github.io/tags/cycling/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fi"
-                href="https://ictia.github.io/fi/tags/cycling/"
-                />
-  </url><url>
     <loc>https://ictia.github.io/fi/posts/finland_netherlands/</loc>
     <lastmod>2022-04-06T10:40:21+03:00</lastmod>
     <xhtml:link
@@ -143,19 +195,6 @@
                 rel="alternate"
                 hreflang="fi"
                 href="https://ictia.github.io/fi/posts/finland_netherlands/"
-                />
-  </url><url>
-    <loc>https://ictia.github.io/fi/tags/</loc>
-    <lastmod>2022-04-06T10:40:21+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ictia.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fi"
-                href="https://ictia.github.io/fi/tags/"
                 />
   </url><url>
     <loc>https://ictia.github.io/fi/tags/trip/</loc>
