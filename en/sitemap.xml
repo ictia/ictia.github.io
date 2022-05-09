@@ -2,8 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ictia.github.io/posts/diet-lifestyle/</loc>
+    <lastmod>2022-05-09T11:54:14+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="https://ictia.github.io/fi/posts/diet-lifestyle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ictia.github.io/posts/diet-lifestyle/"
+                />
+  </url><url>
     <loc>https://ictia.github.io/</loc>
-    <lastmod>2022-05-05T20:46:03+03:00</lastmod>
+    <lastmod>2022-05-09T11:54:14+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
@@ -13,6 +26,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ictia.github.io/"
+                />
+  </url><url>
+    <loc>https://ictia.github.io/posts/</loc>
+    <lastmod>2022-05-09T11:54:14+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="https://ictia.github.io/fi/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ictia.github.io/posts/"
                 />
   </url><url>
     <loc>https://ictia.github.io/posts/quotes/</loc>
@@ -26,19 +52,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ictia.github.io/posts/quotes/"
-                />
-  </url><url>
-    <loc>https://ictia.github.io/posts/</loc>
-    <lastmod>2022-05-05T20:46:03+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fi"
-                href="https://ictia.github.io/fi/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ictia.github.io/posts/"
                 />
   </url><url>
     <loc>https://ictia.github.io/tags/data/</loc>
