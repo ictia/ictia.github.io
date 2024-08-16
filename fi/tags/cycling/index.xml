@@ -1,50 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cycling on Ictia Cycling</title>
+    <title>Cycling on Ictia Cycling</title>
     <link>https://ictia.github.io/fi/tags/cycling/</link>
-    <description>Recent content in cycling on Ictia Cycling</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Cycling on Ictia Cycling</description>
+    <generator>Hugo</generator>
     <language>fi</language>
-    <lastBuildDate>Tue, 23 May 2023 18:55:42 +0300</lastBuildDate><atom:link href="https://ictia.github.io/fi/tags/cycling/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 May 2023 18:55:42 +0300</lastBuildDate>
+    <atom:link href="https://ictia.github.io/fi/tags/cycling/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GPS, Navigation Apps, and Sites for Cyclists</title>
       <link>https://ictia.github.io/fi/posts/gps-navapps-sites/</link>
       <pubDate>Tue, 23 May 2023 18:55:42 +0300</pubDate>
-      
       <guid>https://ictia.github.io/fi/posts/gps-navapps-sites/</guid>
       <description>Cycling has become an increasingly popular form of transportation and exercise. Whether you&amp;rsquo;re a seasoned pro or just starting out, navigation apps can be a great tool to help you plan and navigate your routes. In this post, I&amp;rsquo;ll take a closer look at some of the cycling navigation apps and sites. The focus is the importing of GPX files, for instance routes downloaded from the Lake Trails’ website, and on mobile friendly solutions.</description>
     </item>
-    
     <item>
       <title>From Finland to the Netherlands by bicycle</title>
       <link>https://ictia.github.io/fi/posts/finland_netherlands/</link>
       <pubDate>Sat, 16 Jul 2022 10:40:21 +0300</pubDate>
-      
       <guid>https://ictia.github.io/fi/posts/finland_netherlands/</guid>
       <description>One could say that I grew up cycling. Some of my earlier memories are of me learning to cycle in Purmerend, 20 kilometers or so to the north of Amsterdam. I remember later on trying to break my speed records while checking my speedometer, which at the time (the early 1970s) was a large handlebar mounted contraption. During my teens I road-raced and I have basically enjoyed cycling my whole life.</description>
     </item>
-    
     <item>
       <title>Why the bicycle?</title>
       <link>https://ictia.github.io/fi/posts/bicycle/</link>
       <pubDate>Sat, 09 Apr 2022 10:13:07 +0300</pubDate>
-      
       <guid>https://ictia.github.io/fi/posts/bicycle/</guid>
-      <description>I come from a cycling nation, so the bicycle is always high on my mind.
-Compared to running, cycling has far less impact on your joints, namely knees and hips, it feels less strenuous yet is a great vehicle for improving your health.
-Cycling relaxes my mind, after a while, and certainly out in the countryside, it wanders off into all kinds of new and interesting directions. A good exercise brings peace of mind.</description>
+      <description>I come from a cycling nation, so the bicycle is always high on my mind.&#xA;Compared to running, cycling has far less impact on your joints, namely knees and hips, it feels less strenuous yet is a great vehicle for improving your health.&#xA;Cycling relaxes my mind, after a while, and certainly out in the countryside, it wanders off into all kinds of new and interesting directions. A good exercise brings peace of mind.</description>
     </item>
-    
     <item>
       <title>ICTIA</title>
       <link>https://ictia.github.io/fi/posts/ictia/</link>
       <pubDate>Fri, 08 Apr 2022 10:33:34 +0300</pubDate>
-      
       <guid>https://ictia.github.io/fi/posts/ictia/</guid>
-      <description>Ictia is an acronym in the spirit of René Descartes.
-I Cycle Therefore I Am</description>
+      <description>Ictia is an acronym in the spirit of René Descartes.&#xA;I Cycle Therefore I Am</description>
     </item>
-    
   </channel>
 </rss>

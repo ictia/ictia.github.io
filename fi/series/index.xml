@@ -4,7 +4,8 @@
     <title>Series on Ictia Cycling</title>
     <link>https://ictia.github.io/fi/series/</link>
     <description>Recent content in Series on Ictia Cycling</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fi</language><atom:link href="https://ictia.github.io/fi/series/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>fi</language>
+    <atom:link href="https://ictia.github.io/fi/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

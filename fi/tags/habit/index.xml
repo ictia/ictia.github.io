@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>habit on Ictia Cycling</title>
+    <title>Habit on Ictia Cycling</title>
     <link>https://ictia.github.io/fi/tags/habit/</link>
-    <description>Recent content in habit on Ictia Cycling</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Habit on Ictia Cycling</description>
+    <generator>Hugo</generator>
     <language>fi</language>
-    <lastBuildDate>Sat, 11 Jun 2022 11:58:20 +0300</lastBuildDate><atom:link href="https://ictia.github.io/fi/tags/habit/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Jun 2022 11:58:20 +0300</lastBuildDate>
+    <atom:link href="https://ictia.github.io/fi/tags/habit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Make exercise a habit and part of a routine</title>
       <link>https://ictia.github.io/fi/posts/habit_routine/</link>
       <pubDate>Sat, 11 Jun 2022 11:58:20 +0300</pubDate>
-      
       <guid>https://ictia.github.io/fi/posts/habit_routine/</guid>
-      <description>A habit is something that a person does often, in a regular and repeated way.
-A routine is a specific set of habits done in a particular order.
-For instance, a regular morning routine could be: wake up, go to the toilet, brush your teeth, get dressed, eat breakfast, drink coffee, go out the door. The whole is a routine, the individual aspects are habits.
-If your days are more or less the same every day, with perhaps some deviation over the weekend, then you have a daily routine.</description>
+      <description>A habit is something that a person does often, in a regular and repeated way.&#xA;A routine is a specific set of habits done in a particular order.&#xA;For instance, a regular morning routine could be: wake up, go to the toilet, brush your teeth, get dressed, eat breakfast, drink coffee, go out the door. The whole is a routine, the individual aspects are habits.&#xA;If your days are more or less the same every day, with perhaps some deviation over the weekend, then you have a daily routine.</description>
     </item>
-    
   </channel>
 </rss>

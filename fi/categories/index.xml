@@ -4,7 +4,8 @@
     <title>Categories on Ictia Cycling</title>
     <link>https://ictia.github.io/fi/categories/</link>
     <description>Recent content in Categories on Ictia Cycling</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fi</language><atom:link href="https://ictia.github.io/fi/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>fi</language>
+    <atom:link href="https://ictia.github.io/fi/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
